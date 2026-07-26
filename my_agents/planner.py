@@ -1,6 +1,6 @@
-from agents.rag_agent import run_rag_agent
-from agents.summary_agent import run_summary_agent
-from agents.comparator import run_comparator_agent
+from my_agents.rag_agent import run_rag_agent
+from my_agents.summary_agent import run_summary_agent
+from my_agents.comparator import run_comparator_agent
 from groq import Groq
 from dotenv import load_dotenv
 import os
