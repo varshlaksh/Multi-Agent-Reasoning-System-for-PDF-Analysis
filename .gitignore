@@ -1,0 +1,7 @@
+.venv/
+chroma_store/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

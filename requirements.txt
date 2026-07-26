@@ -1,0 +1,8 @@
+streamlit
+groq
+chromadb
+pdfplumber
+sentence-transformers
+python-dotenv
+tiktoken
+google-genai
