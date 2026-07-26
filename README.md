@@ -110,7 +110,8 @@ Takes RAG evidence as input. Groups chunks by document and asks the LLM to compa
 
 ## Screenshots
 
-> Add screenshots here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c89f58fa-072b-4827-ae69-02f4167ec180" />
+
 
 ---
 
